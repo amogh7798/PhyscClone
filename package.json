@@ -1,0 +1,23 @@
+{
+  "name": "physcclone",
+  "version": "1.0.0",
+  "description": "## codefundo++",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amogh7798/PhyscClone.git"
+  },
+  "author": "physcclone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amogh7798/PhyscClone/issues"
+  },
+  "homepage": "https://github.com/amogh7798/PhyscClone#readme",
+  "dependencies": {
+    "simple-peer": "^9.1.2"
+  }
+}
